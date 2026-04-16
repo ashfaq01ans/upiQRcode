@@ -20,7 +20,7 @@ const Footer = () => {
       {/* Links */}
       <div className="flex items-center justify-center gap-8 my-12 text-xl ">
         <a
-          href="#"
+          href="https://github.com/ashfaq01ans"
           target="_blank"
           className="  hover:scale-110 transition-all duration-300"
         >
@@ -28,7 +28,7 @@ const Footer = () => {
         </a>
 
         <a
-          href="#"
+          href="https://www.linkedin.com/in/ashfaq-ansari/"
           target="_blank"
           className="hover:text-blue-400 hover:scale-110 transition-all duration-300"
         >

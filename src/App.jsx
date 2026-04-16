@@ -2,7 +2,7 @@ import { useState } from "react";
 import toast, { Toaster } from "react-hot-toast";
 import CodeGenerator from "./Components/CodeGenerator";
 import Navbar from "./Components/Navbar";
-import Footer from "./Components/footer";
+import Footer from "./Components/Footer";
 
 function App() {
   const [upiId, setupiId] = useState("");
